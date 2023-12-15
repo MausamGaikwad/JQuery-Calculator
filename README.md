@@ -37,7 +37,7 @@ Open index.html in your web browser.
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-##Author
+## Author
 * MAUSAM GAIKWAD
 
 Feel free to contribute or use this project as a template for your own calculator application!
