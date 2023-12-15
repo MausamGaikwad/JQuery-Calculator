@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background-color: #f0f0f0; /* Soft grey background */
+    font-family: Arial, sans-serif; /* Change font for the entire page */
+}
+
+h1 {
+    color: #8b4513; /* Saddle Brown text color */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Different font for headings */
+}
+
+.container {
+    border: 2px solid #333; /* Dark border */
+    margin: 50px auto; /* Center horizontally */
+    width: 300px;
+    height: auto;
+    background: #ddd; /* Light grey background */
+    border-radius: 10px; /* Rounded corners */
+    padding: 20px; /* Add some padding inside the container */
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); /* Subtle shadow */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+button {
+    font-size: 2rem;
+    border-radius: 50%;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease; /* Smooth transition for button effects */
+    background: #f0f0f0; /* Light grey button background */
+    color: #333; /* Dark text color */
+    border: none;
+    display: inline-block;
+}
+
+button:hover {
+    background: #ccc; /* Darker background on hover */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Slight shadow on hover */
+    color: #000; /* Darker text on hover */
+}
+.calculate
+{
+    background-color: #D2DE32;
+    color: white;
+}
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 1.2rem;
+    border: 1px solid #888;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
